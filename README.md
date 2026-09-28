@@ -211,6 +211,7 @@ This list is organized by category with honest descriptions, pricing tiers, and 
 | [ComplianceForge](https://www.complianceforge.com/) | Policy and standards templates |
 | [CyberCNS](https://www.cybercns.com/) | Vulnerability management for MSPs |
 | [ScytheStatistics](https://www.scythe.io/) | MITRE ATT&CK adversary emulation |
+| [ControlLedger](https://apps.infinihash.com/apps/controlledger) | Recurring-control evidence for MSPs: schedule controls per client, log results with evidence, generate dated Evidence Packs |
 
 ## Free and Open-Source MSP Stack
 
